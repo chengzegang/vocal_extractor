@@ -1,5 +1,4 @@
-# 人声提取器
-# Vocal Extractor
+# 人声提取器 (Vocal Extractor)
 ---
 
 ## 版本
