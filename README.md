@@ -20,7 +20,7 @@ Implements [Open Unmix](https://github.com/sigsep/open-unmix-pytorch) to extract
 1. Extract vocal from songs.
 ---
 ## 后续
-1. 优化对任意时常音乐的提取。
+1. 优化对任意时长音乐的提取。
 2. 实现从噪音中提取人声。
 3. 实现从音频中提取正常交谈的人声。
 ## TODO
